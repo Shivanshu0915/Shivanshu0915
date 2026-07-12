@@ -1,6 +1,4 @@
-<h1></h1>
-
-[<img src="./assets/intro.gif" alt="👋 Hi there! I'm Shivanshu Pathak" title="👋 Hi there! I'm Shivanshu Pathak"/>](https://github.com/Shivanshu0915)
+<a href="https://github.com/Shivanshu0915"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivanshu0915/Shivanshu0915/main/intro-dark.gif"><img src="https://raw.githubusercontent.com/Shivanshu0915/Shivanshu0915/main/intro.gif" alt="👋 Hi there! I'm (Shivanshu Pathak|Competitive Programmer|Full Stack Developer)" title="👋 Hi there! I'm (Shivanshu Pathak|Competitive Programmer|Full Stack Developer)"></picture></a>
 
 ## :book: About Me
 
@@ -13,8 +11,8 @@
 
 **Programming Languages**
 
-<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-|--|--|--|--|--|
+<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+|--|--|--|--|
 
 **Libraries and Frameworks**
 
@@ -28,8 +26,8 @@
 
 **Tools**
 
-<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">|<img title="Postman" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-|--|--|--|--|--|
+<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="GitHub" alt="GitHub" width="40px" src="https://skillicons.dev/icons?i=github">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Postman" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+|--|--|--|--|
 
 ## 👨‍💻 Coding Profiles
 
@@ -45,7 +43,7 @@
 
 ### ⚙️ &nbsp;My GitHub Analytics
 
-<p align="center"><a href="https://github.com/Shivanshu0915"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivanshu0915&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=00000000"><img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivanshu0915&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=00000000" alt="Shivanshu's GitHub Stats"></picture></a> <a href="https://github.com/Shivanshu0915"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivanshu0915&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000"><img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivanshu0915&layout=compact&langs_count=8&hide_border=true&bg_color=00000000" alt="Top Languages"></picture></a></p>
+<p align="center"><a href="https://github.com/Shivanshu0915"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivanshu0915&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivanshu0915&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Shivanshu's GitHub Stats"></picture></a> <a href="https://github.com/Shivanshu0915"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivanshu0915&layout=compact&langs_count=8&theme=github_dark&hide_border=true"><img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivanshu0915&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"></picture></a></p>
 <sub>*Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sub>
 
 ### 🏆 My Competitive Programming Journey
