@@ -7,7 +7,7 @@
 
 ## :book: About Me
 
-I'm Shivanshu, a final-year Computer Science student at **MNNIT Allahabad**.
+I'm Shivanshu, a final-year B.Tech. Computer Science & Engineering student at **MNNIT Allahabad**.
 
 - Interested in Full Stack Development, Backend Engineering and AI
 - Love building projects that solve real-world problems
@@ -99,9 +99,17 @@ I'm Shivanshu, a final-year Computer Science student at **MNNIT Allahabad**.
 
 ## 🤝 Socials
 
-<a href="https://www.linkedin.com/in/shivanshu0915/" title="LinkedIn">
-  <img width="40px" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn">
-</a>&nbsp;&nbsp;
-<a href="mailto:shivanshupathak9412@gmail.com" title="Email">
-  <img width="40px" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email">
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/shivanshu0915/" title="LinkedIn">
+        <img width="40" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:shivanshupathak9412@gmail.com" title="Email">
+        <img width="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+</table>
