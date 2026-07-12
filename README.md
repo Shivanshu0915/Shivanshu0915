@@ -1,15 +1,13 @@
 <h1></h1>
 
-[<img src="https://raw.githubusercontent.com/Shivanshu0915/Shivanshu0915/main/intro.gif" alt="👋 Hi there! I'm (Shivanshu Pathak|Competitive Programmer|Full Stack Developer)" title="👋 Hi there! I'm (Shivanshu Pathak|Competitive Programmer|Full Stack Developer)"/>](https://github.com/Shivanshu0915)
-
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Shivanshu0915.Shivanshu0915&color=00cf00)
+[<img src="./assets/intro.gif" alt="👋 Hi there! I'm Shivanshu Pathak" title="👋 Hi there! I'm Shivanshu Pathak"/>](https://github.com/Shivanshu0915)
 
 ## :book: About Me
 
-- 🎓 Pursuing B.Tech in Computer Science <!-- TODO: add your institute, branch, and graduation year -->
-- 💻 Full Stack Developer — building web apps with React, Next.js, and Node.js
-- 🧩 Competitive Programmer — solving problems on LeetCode, Codeforces & CodeChef
-- 🌱 Always exploring new technologies and open to collaboration
+- Pursuing B.Tech in Computer Science <!-- TODO: add your institute, branch, and graduation year -->
+- Full Stack Developer - building web apps with React, Next.js, and Node.js
+- Competitive Programmer — solving problems on LeetCode, Codeforces & CodeChef
+- Always exploring new technologies and open to collaboration
 
 ## Skill Set :muscle:
 
@@ -54,8 +52,8 @@
 ### 🏆 My Competitive Programming Journey
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Shivanshu0915">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shivanshu0915&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats">
+  <a href="https://codeforces.com/profile/Shivanshu_9">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shivanshu_9&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats">
   </a>
   <a href="https://leetcode.com/Shivanshu0915">
     <img src="https://leetcard.jacoblin.cool/Shivanshu0915?font=Montserrat&ext=contest" alt="LeetCode Stats">
