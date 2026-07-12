@@ -33,44 +33,25 @@
 
 ## 👨‍💻 Coding Profiles
 
-<a href="https://leetcode.com/Shivanshu0915"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>&nbsp;
-<a href="https://codeforces.com/profile/Shivanshu0915"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>&nbsp;
-<a href="https://www.codechef.com/users/Shivanshu0915"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+<table>
+  <tr>
+    <td align="center" width="110"><a href="https://leetcode.com/Shivanshu0915" title="LeetCode"><img width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"><br><b>LeetCode</b></a></td>
+    <td align="center" width="110"><a href="https://codeforces.com/profile/Shivanshu_9" title="Codeforces"><img width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces"><br><b>Codeforces</b></a></td>
+    <td align="center" width="110"><a href="https://www.codechef.com/users/Shivanshu0915" title="CodeChef"><img width="40px" src="https://img.icons8.com/fluency/48/codechef.png" alt="CodeChef"><br><b>CodeChef</b></a></td>
+  </tr>
+</table>
 
 ## 📊 Stats
 
 ### ⚙️ &nbsp;My GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Shivanshu0915">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivanshu0915&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu0915&layout=compact&langs_count=8"/>
-</a>
-</p>
+<p align="center"><a href="https://github.com/Shivanshu0915"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivanshu0915&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=00000000"><img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivanshu0915&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=00000000" alt="Shivanshu's GitHub Stats"></picture></a> <a href="https://github.com/Shivanshu0915"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivanshu0915&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000"><img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivanshu0915&layout=compact&langs_count=8&hide_border=true&bg_color=00000000" alt="Top Languages"></picture></a></p>
 <sub>*Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sub>
 
 ### 🏆 My Competitive Programming Journey
 
-<p align="center">
-  <a href="https://codeforces.com/profile/Shivanshu_9">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shivanshu_9&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats">
-  </a>
-  <a href="https://leetcode.com/Shivanshu0915">
-    <img src="https://leetcard.jacoblin.cool/Shivanshu0915?font=Montserrat&ext=contest" alt="LeetCode Stats">
-  </a>
-</p>
+<p align="center"><a href="https://codeforces.com/profile/Shivanshu_9"><picture><source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=Shivanshu_9&disable_animations=false&show_icons=true&force_username=true&theme=github_dark"><img width="49%" src="https://codeforces-readme-stats.vercel.app/api/card?username=Shivanshu_9&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats"></picture></a> <a href="https://leetcode.com/Shivanshu0915"><picture><source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Shivanshu0915?font=Montserrat&ext=contest&theme=dark"><img width="49%" src="https://leetcard.jacoblin.cool/Shivanshu0915?font=Montserrat&ext=contest&theme=light" alt="LeetCode Stats"></picture></a></p>
 
 ## 🤝 Socials
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="mailto:YOUR_EMAIL_HERE@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-## 📈 Contribution Graph
-
-![Shivanshu's GitHub Contribution Graph](https://ghchart.rshah.org/Shivanshu0915)
-
-<!--
-📌 Note: Your pinned repositories appear automatically on your GitHub profile
-right below this README — pin your best repos from your profile page
-(Customize your pins) instead of listing projects here.
--->
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE" title="LinkedIn"><img width="40px" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:YOUR_EMAIL_HERE@example.com" title="Email"><img width="40px" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"></a>
